@@ -1,4 +1,4 @@
-## Diikshita's Swift portfolio 👩🏻‍💻
+## Dikshita's Swift portfolio 👩🏻‍💻
 
 ## Fetch - The Meal Dessert App 🍭🐕
 
