@@ -56,12 +56,12 @@ Visualizing spending with a pie chart, accessing financial news and YouTube vide
 
 
 ## Dice Game APP swift 🎲
-<img width="920" alt="Screenshot 2024-06-22 at 1 57 09 PM" src="https://github.com/dikshitapatel/swift-projects/assets/51240335/913761ed-2ec6-458d-bf81-6c0a670bf73a">
+<img width="920"  alt="Screenshot 2024-06-22 at 1 57 09 PM" src="https://github.com/dikshitapatel/swift-projects/assets/51240335/913761ed-2ec6-458d-bf81-6c0a670bf73a">
 
 * This game is a simple yet engaging IOS app where players compete against the computer by rolling dice and wagering tokens. The rules are straightforward, and the gameplay is quick and fun.
 
 <div align="center">
-<a href="https://github.com/dikshitapatel/Flutter-Dice-Game" target="_blank">
+<a href="https://github.com/dikshitapatel/Dice-game-IOS" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
   
