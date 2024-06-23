@@ -1,5 +1,9 @@
 ## Dikshita's Swift portfolio 👩🏻‍💻
 
+## My Experience with the Fetch Rewards App 🐕
+<img width="920" alt="Screenshot 2024-06-22 at 1 26 47 PM" src="https://github.com/dikshitapatel/swift-projects/assets/51240335/c3e73aa0-94aa-4733-81fc-7d16da347294">
+
+
 ## Fetch - The Meal Dessert App 🍭🐕
 
 <img width="920" alt="Screenshot 2024-06-22 at 12 48 14 PM" src="https://github.com/dikshitapatel/swift-projects/assets/51240335/6c27969d-724c-412f-b06a-c212753ba149">
@@ -83,7 +87,5 @@ Visualizing spending with a pie chart, accessing financial news and YouTube vide
 • Swift
 • SwiftUI
 
-## My Experience with the Fetch Rewards App 🐕
-<img width="920" alt="Screenshot 2024-06-22 at 1 26 47 PM" src="https://github.com/dikshitapatel/swift-projects/assets/51240335/c3e73aa0-94aa-4733-81fc-7d16da347294">
 
 
